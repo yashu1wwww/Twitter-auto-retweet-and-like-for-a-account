@@ -1,7 +1,8 @@
 # Twitter-auto-retweet-and-like-for-a-account
 Twitter unlimited auto-retweeting and liking for a account using selenium with python
 
-Change the username and password on the 22nd and 26th line & replace hashtag in 30th line
+## Change the username and password on the 22nd and 26th line & replace hashtag in 30th line
+
 Note: Use accounts that do not have two-factor authentication.
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter rl.py or double-click on the rl.py file.
