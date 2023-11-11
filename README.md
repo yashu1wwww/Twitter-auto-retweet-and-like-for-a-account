@@ -3,9 +3,13 @@ Twitter unlimited auto-retweeting and liking for a account using selenium with p
 
 ## Change the username and password on the 22nd and 26th line & replace account url in 29th line
 
-Note: Use accounts that do not have two-factor authentication.
+# Note: Use accounts that do not have two-factor authentication.
 
-Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. Open the command prompt in that particular folder and enter rl.py or double-click on the rl.py file.
+# if you want with multiple Accs Then Copy From 16th line to End And Paste Again And Change Username & Pass.
+
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the designated folder. 
+
+Open the command prompt in that particular folder and enter rl.py or double-click on the rl.py file.
 
 👉Note:-
 
