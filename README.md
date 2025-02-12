@@ -1,7 +1,7 @@
 # Twitter-auto-retweet-and-like-for-a-account
 Twitter unlimited auto-retweeting and liking for a account using selenium with python
 
-# twitter auto retweet and like for a hashtag
+# For twitter auto retweet and like for a hashtag
 https://github.com/yashu1wwww/Twitter-auto-retweet-and-like-for-a-hashtag
 
 ## Change the username and password on the 22nd and 26th line & replace account url in 29th line
